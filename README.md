@@ -1,5 +1,3 @@
-
-
 📝 Simple Text Editor
 
 📌 Description
